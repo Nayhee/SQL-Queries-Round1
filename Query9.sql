@@ -1,2 +1,0 @@
-﻿INSERT INTO Song (Title, SongLength, ReleaseDate, GenreId, ArtistId, AlbumId) VALUES ('Back Burner', 61, '12/03/2002', 5, 28, 23);
-INSERT INTO Song (Title, SongLength, ReleaseDate, GenreId, ArtistId, AlbumId) VALUES ('Composure', 68, '12/03/2002', 5, 28, 23);
