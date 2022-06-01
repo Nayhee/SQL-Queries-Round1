@@ -1,1 +1,0 @@
-﻿Insert into Artist (ArtistName, YearEstablished) Values ('August Burns Red', 2010);
